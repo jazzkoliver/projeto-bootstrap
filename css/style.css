@@ -1,0 +1,28 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color:indianred;
+}
+
+.quem-somos {
+    background-color:lavenderblush;
+    color: black;
+}
+
+.padding {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: brown;
+    color: burlywood;
+}
+
+.bg-footer {
+    background-color: lavenderblush;
+    color: black
+    ;
+}
